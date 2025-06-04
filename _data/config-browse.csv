@@ -3,5 +3,6 @@ date,Date,,,Date Created
 description,,,true,
 creator,Creator,,,
 subject,,true
+item_information,Document type,true,,,
 location,,true,,,Location Depicted
 identifier,,,true,Identifier
